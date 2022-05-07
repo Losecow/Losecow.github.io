@@ -7,6 +7,7 @@
 
   - Blog
   - humor
+  - vlog
 
 + tags:
 
